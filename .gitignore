@@ -4,8 +4,7 @@ node_modules
 lib
 .idea
 package-lock.json
-Dockerfile
-.dockerignore
+
 
 
 # local env files
