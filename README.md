@@ -1,7 +1,5 @@
 # vue-front
 
-test
-
 ## Project setup
 
 ```
