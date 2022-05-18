@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/web.png
-heroText: 橙子's blog
+heroText: 橙子
 tagline: 好在不玩追寻，纵然得到失去。
 # actionText: 立刻进入 →
 # actionLink: /web/
