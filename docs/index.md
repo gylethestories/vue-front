@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/web.png
+heroImage: /img/avatar.jpg
 heroText: 橙子酸不酸
 tagline: 好在不玩追寻，纵然得到失去。
 # actionText: 立刻进入 →
